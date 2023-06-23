@@ -8,7 +8,7 @@ SPDX-License-Identifier: MIT
 
 -->
 
-CS342 2023 PAWS Team Application Contributors
+2023 PAWS Team Application Contributors
 =================================
 
 Contributors: Summer Royal, Caitlin Kunchur, Shriya Reddy, Priyanka Shrestha
