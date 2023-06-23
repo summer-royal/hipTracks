@@ -1,6 +1,6 @@
 <!--
 
-This source file is part of the CS342 2023 PAWS Team Application project
+This source file is part of the HipTracks Team project for the HealthHacks competition
 
 SPDX-FileCopyrightText: 2023 Stanford University
 
@@ -11,4 +11,4 @@ SPDX-License-Identifier: MIT
 CS342 2023 PAWS Team Application Contributors
 =================================
 
-* [Paul Schmiedmayer](https://github.com/PSchmiedmayer)
+Contributors: Summer Royal, Caitlin Kunchur, Shriya Reddy, Priyanka Shrestha
